@@ -1,0 +1,14 @@
+collection:
+
+Maven: Build automation tool
+testNG- Scope should be compile in xml file.
+Automation requirements:
+a. Selenium WebDriver
+b. java
+c. TestNG
+d. Extent reports
+e. git and github
+f. Jenkins
+g. Apachi POI
+h. maven
+i. log4j
